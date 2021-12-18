@@ -1,0 +1,380 @@
+{
+  "shoot.ak": {
+    "category": "player",
+    "sounds": [
+      "shoot/ak"
+    ]
+  },
+  "shoot.rpg": {
+    "category": "player",
+    "sounds": [
+      "shoot/rpg"
+    ]
+  },
+  "shoot.m4a1": {
+    "category": "player",
+    "sounds": [
+      "shoot/m4a1"
+    ]
+  },
+  "shoot.spas": {
+    "category": "player",
+    "sounds": [
+      "shoot/spas12"
+    ]
+  },
+  "shoot.hunting": {
+    "category": "player",
+    "sounds": [
+      "shoot/huntingrifle"
+    ]
+  },
+  "shoot.olympia": {
+    "category": "player",
+    "sounds": [
+      "shoot/olympia"
+    ]
+  },
+  "shoot.44": {
+    "category": "player",
+    "sounds": [
+      "shoot/44"
+    ]
+  },
+  "shoot.m16": {
+    "category": "player",
+    "sounds": [
+      "shoot/m16"
+    ]
+  },
+  "shoot.deserteagle": {
+    "category": "player",
+    "sounds": [
+      "shoot/deserteagle"
+    ]
+  },
+  "scope.end_scope": {
+    "category": "player",
+    "sounds": [
+      "scope/end_scope"
+    ]
+  },
+  "scope.start_scope": {
+    "category": "player",
+    "sounds": [
+      "scope/start_scope"
+    ]
+  },
+  "shoot.fal": {
+    "category": "player",
+    "sounds": [
+      "shoot/fal"
+    ]
+  },
+  "shoot.ak74u": {
+    "category": "player",
+    "sounds": [
+      "shoot/ak74u"
+    ]
+  },
+  "shoot.awp": {
+    "category": "player",
+    "sounds": [
+      "shoot/awp"
+	]
+  },
+  "shoot.scar": {
+    "category": "player",
+    "sounds": [
+      "shoot/scar"
+	]
+  },
+  "impact.hitmarker": {
+    "category": "player",
+    "sounds": [
+      "impact/hitmarker"
+	]
+  },
+    "reload.ak": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadak"
+	]
+  },
+	"reload.awp1": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadawp1"
+	]
+  },
+    "reload.deagle": {
+    "category": "player",
+    "sounds": [
+      "reload/reloaddeagle"
+	]
+  },
+    "reload.m16": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadm16"
+	]
+  },
+    "reload.olympia": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadolympia"
+	]
+  },
+    "reload.44": {
+    "category": "player",
+    "sounds": [
+      "reload/reload44"
+	]
+  },
+    "reload.spas12": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadspas"
+	]
+  },
+      "reload.huntingrifle": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadhuntingrifle"
+	]
+  },
+     "reload.scar": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadscar"
+	]
+  },
+    "flash.ring": {
+    "category": "player",
+    "sounds": [
+      "random/ringing"
+	]
+  },
+	"shoot.uzi": {
+    "category": "player",
+    "sounds": [
+      "shoot/uzi"
+	]
+  },
+	"reload.uzi": {
+    "category": "player",
+    "sounds": [
+      "reload/reloaduzi"
+	]
+  },
+	 "shoot.pkp": {
+    "category": "player",
+    "sounds": [
+      "shoot/pkp"
+	]
+  },
+	 "reload.pkp1": {
+    "category": "player",
+    "sounds": [
+      "reload/pkpreload1"
+	]
+  },
+  	"reload.pkp2": {
+    "category": "player",
+    "sounds": [
+      "reload/pkpreload2"
+	]
+  },
+	 "reload.m4a1": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadm4a1"
+	]
+  },
+	  "reload.fal": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadfal"
+	]
+  },
+	"reload.awp2": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadawp2"
+	]
+  },
+	"explosion.explode": {
+    "category": "player",
+    "sounds": [
+      "random/explode"
+	]
+  },
+	"reload.ump": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadump"
+    ]
+  },
+  "shoot.ump": {
+    "category": "player",
+    "sounds": [
+      "shoot/ump"
+	]
+  },
+	"reload.fal1": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadfal1"
+    ]
+  },
+  "shoot.l85a2": {
+    "category": "player",
+    "sounds": [
+      "shoot/l85a2"
+	]
+  },
+	"reload.l85a2": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadl85a2"
+    ]
+  },
+  "shoot.flamethrower": {
+    "category": "player",
+    "sounds": [
+      "shoot/flamethrower"
+    ]
+  },
+  "shoot.glock": {
+    "category": "player",
+    "sounds": [
+      "shoot/glock"
+	]
+  },
+	"reload.glock": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadglock"
+	      ]
+  },
+  "shoot.m1014": {
+    "category": "player",
+    "sounds": [
+      "shoot/m1014"
+    ]
+  },
+  "reload.m1014": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadm1014"
+    ]
+  },
+  "reload.barrett": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadbarrett"
+    ]
+  },
+  "shoot.barrett": {
+    "category": "player",
+    "sounds": [
+      "shoot/barrett"
+    ]
+  },
+  "shoot.m249": {
+    "category": "player",
+    "sounds": [
+      "shoot/m249"
+    ]
+  },
+  "reload.m249": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadm249"
+    ]
+  },
+  "shoot.p90": {
+    "category": "player",
+    "sounds": [
+      "shoot/p90"
+    ]
+  },
+  "reload.p90": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadp90"
+    ]
+  },
+  "shoot.famas": {
+    "category": "player",
+    "sounds": [
+      "shoot/famas"
+    ]
+  },
+  "explosion.molotov": {
+    "category": "player",
+    "sounds": [
+      "random/molotov"
+    ]
+  },
+  "draw.molotov": {
+    "category": "player",
+    "sounds": [
+      "draw/molotov"
+    ]
+  },
+  "draw.throw": {
+    "category": "player",
+    "sounds": [
+      "shoot/throw"
+    ]
+  },
+  "draw.c4throw": {
+    "category": "player",
+    "sounds": [
+      "shoot/c4throw"
+    ]
+  },
+  "eplosion.satchel": {
+    "category": "player",
+    "sounds": [
+      "random/satchel"
+    ]
+  },
+  "eplosion.ied": {
+    "category": "player",
+    "sounds": [
+      "random/ied"
+    ]
+  },
+  "honk": {
+      "replace": false,
+      "sounds": [
+          "honk"
+      ]
+  },
+  "driving": {
+      "replace": false,
+      "sounds": [
+          "driving"
+      ]
+  },
+  "engine": {
+      "replace": false,
+      "sounds": [
+          "engine"
+      ]
+  },
+  "carskid": {
+      "replace": false,
+      "sounds": [
+          "carskid"
+      ]
+  },
+  "reload.famas": {
+    "category": "player",
+    "sounds": [
+      "reload/reloadfamas"
+    ]
+  }
+}

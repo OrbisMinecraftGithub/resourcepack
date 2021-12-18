@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":50}, "model": "item/guns/flashbang"},
+		{"predicate": {"custom_model_data":51}, "model": "item/guns/grenade"},
+		{"predicate": {"custom_model_data":52}, "model": "item/guns/molotov"}
+    ]
+}

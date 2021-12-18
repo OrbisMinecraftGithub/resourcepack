@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":2}, "model": "item/crates/basiccratedeployed"},
+		{"predicate": {"custom_model_data":3}, "model": "item/crates/largemilitarycrate"},
+		{"predicate": {"custom_model_data":4}, "model": "item/crates/militarycrate"},
+        {"predicate": {"custom_model_data":5}, "model": "item/crates/largemilitarycratedeployed"},
+		{"predicate": {"custom_model_data":6}, "model": "item/placeholder/gui"},
+		{"predicate": {"custom_model_data":1}, "model": "item/money/banknote"}
+	]
+}
