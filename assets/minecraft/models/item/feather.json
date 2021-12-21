@@ -4,12 +4,12 @@
 		"layer0": "item/feather"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/crates/basiccrate"},
-		{"predicate": {"custom_model_data":2}, "model": "item/crates/basiccratedeployed"},
-		{"predicate": {"custom_model_data":3}, "model": "item/crates/largemilitarycrate"},
-		{"predicate": {"custom_model_data":4}, "model": "item/crates/militarycrate"},
-        {"predicate": {"custom_model_data":5}, "model": "item/crates/largemilitarycratedeployed"},
-		{"predicate": {"custom_model_data":6}, "model": "item/placeholder/gui"},
-		{"predicate": {"custom_model_data":7}, "model": "item/money/banknote"}
+		{"predicate": {"custom_model_data":1}, "model": "orbis:item/crates/basiccrate"},
+		{"predicate": {"custom_model_data":2}, "model": "orbis:item/crates/basiccratedeployed"},
+		{"predicate": {"custom_model_data":3}, "model": "orbis:item/crates/largemilitarycrate"},
+		{"predicate": {"custom_model_data":4}, "model": "orbis:item/crates/militarycrate"},
+        {"predicate": {"custom_model_data":5}, "model": "orbis:item/crates/largemilitarycratedeployed"},
+		{"predicate": {"custom_model_data":6}, "model": "orbis:item/placeholder/gui"},
+		{"predicate": {"custom_model_data":7}, "model": "orbis:item/money/banknote"}
 	]
 }

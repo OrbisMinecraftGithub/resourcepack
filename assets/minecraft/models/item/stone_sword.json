@@ -5,8 +5,8 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":10}, "model": "item/guns/satchel"},
-		{"predicate": {"custom_model_data":11}, "model": "item/guns/ied"},
-		{"predicate": {"custom_model_data":12}, "model": "item/guns/c4"}
+		{"predicate": {"custom_model_data":10}, "model": "orbis:item/guns/satchel"},
+		{"predicate": {"custom_model_data":11}, "model": "orbis:item/guns/ied"},
+		{"predicate": {"custom_model_data":12}, "model": "orbis:item/guns/c4"}
     ]
 }

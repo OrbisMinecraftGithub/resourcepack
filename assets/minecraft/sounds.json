@@ -2,379 +2,379 @@
   "shoot.ak": {
     "category": "player",
     "sounds": [
-      "shoot/ak"
+      "orbis:shoot/ak"
     ]
   },
   "shoot.rpg": {
     "category": "player",
     "sounds": [
-      "shoot/rpg"
+      "orbis:shoot/rpg"
     ]
   },
   "shoot.m4a1": {
     "category": "player",
     "sounds": [
-      "shoot/m4a1"
+      "orbis:shoot/m4a1"
     ]
   },
   "shoot.spas": {
     "category": "player",
     "sounds": [
-      "shoot/spas12"
+      "orbis:shoot/spas12"
     ]
   },
   "shoot.hunting": {
     "category": "player",
     "sounds": [
-      "shoot/huntingrifle"
+      "orbis:shoot/huntingrifle"
     ]
   },
   "shoot.olympia": {
     "category": "player",
     "sounds": [
-      "shoot/olympia"
+      "orbis:shoot/olympia"
     ]
   },
   "shoot.44": {
     "category": "player",
     "sounds": [
-      "shoot/44"
+      "orbis:shoot/44"
     ]
   },
   "shoot.m16": {
     "category": "player",
     "sounds": [
-      "shoot/m16"
+      "orbis:shoot/m16"
     ]
   },
   "shoot.deserteagle": {
     "category": "player",
     "sounds": [
-      "shoot/deserteagle"
+      "orbis:shoot/deserteagle"
     ]
   },
   "scope.end_scope": {
     "category": "player",
     "sounds": [
-      "scope/end_scope"
+      "orbis:scope/end_scope"
     ]
   },
   "scope.start_scope": {
     "category": "player",
     "sounds": [
-      "scope/start_scope"
+      "orbis:scope/start_scope"
     ]
   },
   "shoot.fal": {
     "category": "player",
     "sounds": [
-      "shoot/fal"
+      "orbis:shoot/fal"
     ]
   },
   "shoot.ak74u": {
     "category": "player",
     "sounds": [
-      "shoot/ak74u"
+      "orbis:shoot/ak74u"
     ]
   },
   "shoot.awp": {
     "category": "player",
     "sounds": [
-      "shoot/awp"
+      "orbis:shoot/awp"
 	]
   },
   "shoot.scar": {
     "category": "player",
     "sounds": [
-      "shoot/scar"
+      "orbis:shoot/scar"
 	]
   },
   "impact.hitmarker": {
     "category": "player",
     "sounds": [
-      "impact/hitmarker"
+      "orbis:impact/hitmarker"
 	]
   },
     "reload.ak": {
     "category": "player",
     "sounds": [
-      "reload/reloadak"
+      "orbis:reload/reloadak"
 	]
   },
 	"reload.awp1": {
     "category": "player",
     "sounds": [
-      "reload/reloadawp1"
+      "orbis:reload/reloadawp1"
 	]
   },
     "reload.deagle": {
     "category": "player",
     "sounds": [
-      "reload/reloaddeagle"
+      "orbis:reload/reloaddeagle"
 	]
   },
     "reload.m16": {
     "category": "player",
     "sounds": [
-      "reload/reloadm16"
+      "orbis:reload/reloadm16"
 	]
   },
     "reload.olympia": {
     "category": "player",
     "sounds": [
-      "reload/reloadolympia"
+      "orbis:reload/reloadolympia"
 	]
   },
     "reload.44": {
     "category": "player",
     "sounds": [
-      "reload/reload44"
+      "orbis:reload/reload44"
 	]
   },
     "reload.spas12": {
     "category": "player",
     "sounds": [
-      "reload/reloadspas"
+      "orbis:reload/reloadspas"
 	]
   },
       "reload.huntingrifle": {
     "category": "player",
     "sounds": [
-      "reload/reloadhuntingrifle"
+      "orbis:reload/reloadhuntingrifle"
 	]
   },
      "reload.scar": {
     "category": "player",
     "sounds": [
-      "reload/reloadscar"
+      "orbis:reload/reloadscar"
 	]
   },
     "flash.ring": {
     "category": "player",
     "sounds": [
-      "random/ringing"
+      "orbis:random/ringing"
 	]
   },
 	"shoot.uzi": {
     "category": "player",
     "sounds": [
-      "shoot/uzi"
+      "orbis:shoot/uzi"
 	]
   },
 	"reload.uzi": {
     "category": "player",
     "sounds": [
-      "reload/reloaduzi"
+      "orbis:reload/reloaduzi"
 	]
   },
 	 "shoot.pkp": {
     "category": "player",
     "sounds": [
-      "shoot/pkp"
+      "orbis:shoot/pkp"
 	]
   },
 	 "reload.pkp1": {
     "category": "player",
     "sounds": [
-      "reload/pkpreload1"
+      "orbis:reload/pkpreload1"
 	]
   },
   	"reload.pkp2": {
     "category": "player",
     "sounds": [
-      "reload/pkpreload2"
+      "orbis:reload/pkpreload2"
 	]
   },
 	 "reload.m4a1": {
     "category": "player",
     "sounds": [
-      "reload/reloadm4a1"
+      "orbis:reload/reloadm4a1"
 	]
   },
 	  "reload.fal": {
     "category": "player",
     "sounds": [
-      "reload/reloadfal"
+      "orbis:reload/reloadfal"
 	]
   },
 	"reload.awp2": {
     "category": "player",
     "sounds": [
-      "reload/reloadawp2"
+      "orbis:reload/reloadawp2"
 	]
   },
 	"explosion.explode": {
     "category": "player",
     "sounds": [
-      "random/explode"
+      "orbis:random/explode"
 	]
   },
 	"reload.ump": {
     "category": "player",
     "sounds": [
-      "reload/reloadump"
+      "orbis:reload/reloadump"
     ]
   },
   "shoot.ump": {
     "category": "player",
     "sounds": [
-      "shoot/ump"
+      "orbis:shoot/ump"
 	]
   },
 	"reload.fal1": {
     "category": "player",
     "sounds": [
-      "reload/reloadfal1"
+      "orbis:reload/reloadfal1"
     ]
   },
   "shoot.l85a2": {
     "category": "player",
     "sounds": [
-      "shoot/l85a2"
+      "orbis:shoot/l85a2"
 	]
   },
 	"reload.l85a2": {
     "category": "player",
     "sounds": [
-      "reload/reloadl85a2"
+      "orbis:reload/reloadl85a2"
     ]
   },
   "shoot.flamethrower": {
     "category": "player",
     "sounds": [
-      "shoot/flamethrower"
+      "orbis:shoot/flamethrower"
     ]
   },
   "shoot.glock": {
     "category": "player",
     "sounds": [
-      "shoot/glock"
+      "orbis:shoot/glock"
 	]
   },
 	"reload.glock": {
     "category": "player",
     "sounds": [
-      "reload/reloadglock"
+      "orbis:reload/reloadglock"
 	      ]
   },
   "shoot.m1014": {
     "category": "player",
     "sounds": [
-      "shoot/m1014"
+      "orbis:shoot/m1014"
     ]
   },
   "reload.m1014": {
     "category": "player",
     "sounds": [
-      "reload/reloadm1014"
+      "orbis:reload/reloadm1014"
     ]
   },
   "reload.barrett": {
     "category": "player",
     "sounds": [
-      "reload/reloadbarrett"
+      "orbis:reload/reloadbarrett"
     ]
   },
   "shoot.barrett": {
     "category": "player",
     "sounds": [
-      "shoot/barrett"
+      "orbis:shoot/barrett"
     ]
   },
   "shoot.m249": {
     "category": "player",
     "sounds": [
-      "shoot/m249"
+      "orbis:shoot/m249"
     ]
   },
   "reload.m249": {
     "category": "player",
     "sounds": [
-      "reload/reloadm249"
+      "orbis:reload/reloadm249"
     ]
   },
   "shoot.p90": {
     "category": "player",
     "sounds": [
-      "shoot/p90"
+      "orbis:shoot/p90"
     ]
   },
   "reload.p90": {
     "category": "player",
     "sounds": [
-      "reload/reloadp90"
+      "orbis:reload/reloadp90"
     ]
   },
   "shoot.famas": {
     "category": "player",
     "sounds": [
-      "shoot/famas"
+      "orbis:shoot/famas"
     ]
   },
   "explosion.molotov": {
     "category": "player",
     "sounds": [
-      "random/molotov"
+      "orbis:random/molotov"
     ]
   },
   "draw.molotov": {
     "category": "player",
     "sounds": [
-      "draw/molotov"
+      "orbis:draw/molotov"
     ]
   },
   "draw.throw": {
     "category": "player",
     "sounds": [
-      "shoot/throw"
+      "orbis:shoot/throw"
     ]
   },
   "draw.c4throw": {
     "category": "player",
     "sounds": [
-      "shoot/c4throw"
+      "orbis:shoot/c4throw"
     ]
   },
   "eplosion.satchel": {
     "category": "player",
     "sounds": [
-      "random/satchel"
+      "orbis:random/satchel"
     ]
   },
   "eplosion.ied": {
     "category": "player",
     "sounds": [
-      "random/ied"
+      "orbis:random/ied"
     ]
   },
   "honk": {
       "replace": false,
       "sounds": [
-          "honk"
+          "orbis:honk"
       ]
   },
   "driving": {
       "replace": false,
       "sounds": [
-          "driving"
+          "orbis:driving"
       ]
   },
   "engine": {
       "replace": false,
       "sounds": [
-          "engine"
+          "orbis:engine"
       ]
   },
   "carskid": {
       "replace": false,
       "sounds": [
-          "carskid"
+          "orbis:carskid"
       ]
   },
   "reload.famas": {
     "category": "player",
     "sounds": [
-      "reload/reloadfamas"
+      "orbis:reload/reloadfamas"
     ]
   }
 }
